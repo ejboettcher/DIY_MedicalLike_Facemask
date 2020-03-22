@@ -75,6 +75,8 @@ For a cleaner looking edge, you can sew the bottom end.
 #### Add Ties or Elastic
 What you do here depends on the material you have.  
 
+**NOTE** You may want to add a pocket at the top so that users can add additional filters.
+
 ##### If you have ribbon or cloth edges.
 Sew the the ties onto the mask see image below.
 ![Image of sew side edges](./images/simple_mask_AddTies.jpg)
