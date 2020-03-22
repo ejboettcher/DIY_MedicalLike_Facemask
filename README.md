@@ -101,7 +101,9 @@ Cats will hinder your progress!  But they are too cute to move.
 [deaconess]:https://www.deaconess.com/How-to-make-a-Face-Mask
 [favorite_DIY]:https://www.instructables.com/id/DIY-Cloth-Face-Mask/
 [CDC_mask]:https://wwwnc.cdc.gov/eid/article/12/6/05-1468_article
+[Nurse_mask]:https://www.instructables.com/id/AB-Mask-for-a-Nurse-by-a-Nurse/
 
 * [basic mask][deaconess]
 * [favorite mask][favorite_DIY]
 * [CDC mask][CDC_mask]
+* [Nurse Designed][Nurse Mask]
