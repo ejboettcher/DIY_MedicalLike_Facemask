@@ -1,97 +1,94 @@
 # DIY Simple Medical (like) Facemasks
-![Simple Medical-Like Facemask](./images/mask_prototype.jpg)
+![Simple Medical-Like Facemask](./images/simple_mask.jpg)
 
-If you are a good seamtress and have supplies please take a look at [my favorate][favorite_DIY].  It looks awesome!  Also if you are more cautious you can use the [CDC Mask instructions][CDC_mask].
+
+This produces a very simple and fast to make cloth mask.  Adjust size as needed.
+
+
+If you are a good seamtress and have supplies please take a look at [my favorite][favorite_DIY].  It looks awesome!  Also if you are more cautious you can use the [CDC Mask instructions][CDC_mask].
 
 For the rest of us with random supplies and lower skills, then this page is for you.
 
 ## Instructions:
 
 ### Materials:
-* Two 11 my 8.5 inch piece of cloth. (one piece should be either Linen or Cotton)
+* **ONE** 11 my 8.5 inch piece of cloth. (Either Linen or Cotton)
 * 1-2 bag ties
-* 1/4 inch ribbon or elastic
-* 1 1/2 ribbon or quilt/blanket edging material.
+* 1/4 inch ribbon, material or elastic
+* (Optional) 1 1/2 ribbon or quilt/blanket edging material.
 * Thread: any color
 
 ### Steps
--   [Cut the cloth](#cut-the-cloth)
--   [(Optional) Moisture Spacer / Wiching
-    Barrier](#optional-moisture-spacer-wiching-barrier)
--   [Sew Top Edge](#sew-top-edge)
+-   [(Optional) Moisture Spacer / Wicking
+    Barrier](#optional-moisture-spacer-wicking-barrier)
 -   [ADD: Bag tie pocket](#add-bag-tie-pocket)
--   [Fold Fabric](#fold-fabric)
--   [(OPTIONAL) Iron Folds Flat](#optional-iron-folds-flat)
--   [Sew the two cloth pieces together at
-    bottom](#sew-the-two-cloth-pieces-together-at-bottom)
--   [Flip right side out and sew
-    sides](#flip-right-side-out-and-sew-sides)
--   [(OPTIONAL) Sew Bottom
-    again](#optional-sew-bottom-again)
--   [Sew the top side](#sew-the-top-side)
--   [Add Ribbon / Elastic
-    holder](#add-ribbon-elastic-holder)
--   [Add Elastic or ribbon](#add-elastic-or-ribbon)
-#### Cut the cloth
-Use a sheet of paper for your template.  Cut two pieces of cloth the size of a sheet of paper.
-![paper template](./images/paper_template.jpg)
+-   [Fold Fabric in behalf](#fold-fabric-in-behalf)
+-   [Fold Fabric like a
+    cummberbund](#fold-fabric-like-a-cummberbund)
+-   [Sew the side edges
+    together](#sew-the-side-edges-together)
+-   [(OPTIONAL) Sew Bottom](#optional-sew-bottom)
+-   [Add Ties or Elastic](#add-ties-or-elastic)
+-   [Done](#done)
+#### Cut the Cloth
+Use a sheet of paper for your template.  Cut a single pieces of cloth the size of a sheet of paper.
+You do not have to be exact, simply within the ballpark.  Make larger or smaller for your head.
+
+From here our I will refer to this a the *square*.
+
+| GOOD Cut  | BAD Cut |
+|:---:|:---:|
+|![paper template good](./images/simple_mask_square.jpg)|![paper template good](./images/simple_mask_square_badcut.jpg)|
 
 **NOTE** The outer cloth should be cotton or linen to absorb moisture!
 
-#### (Optional) Moisture Spacer / Wiching Barrier
+#### (Optional) Moisture Spacer / Wicking Barrier
 I wanted my mask to have the following (unproven) features:
 * A moisture wicking barrier.  Here I added another *middle* layer using netting.
   ![square with netting](./images/squareWithNetting.jpg)
 * Have two types of material with different tribostatics: e.g. take or give an elections.  My (UNPROVEN) theory is that when the air moves across the two barriers it would self ionize.  Again it is UNPROVEN.
 
-#### Sew Top Edge
-Fold over the **A** single short side of the cloth and sew the edge down.  We are going to call this the top side
-
-We want a clean edge to make a pocket for adding additional filters.
 
 #### ADD: Bag tie pocket
-One ONE of the folded sewn edges we will add a pocket for the bag tie.
+One ONE of the short edges of the *square* we will add a pocket for the bag tie.
 The bag tie will allow us to mold the mask to our nose.  I used a ribbon to make a pocket for the bag tie
 
 | Square with Tie before sewing | Square with tie after sewing |
 |:-----: |:---:|
 |![square with bag tie](./images/square_with_bagTies.jpg) |![mask Bag Tie](./images/mask_withBagTie.jpg)|
 
-#### Fold Fabric
-Folder the fabric (while in portrait mode) like a cummerbund.  Have the cummberbund creases *pointing to the bottom*.  
+#### Fold Fabric in behalf
+Folder the fabric (while in portrait mode) in half.  You want the **WIDTH** to be 8.5 inches across.  You also want the *right* (nice) side of the fabric facing **out**.
 
-#### (OPTIONAL) Iron Folds Flat
-At this point, you can fold the mask like a cummerbund and iron to make nice creases.
-![square folded](./images/squarefoldered.jpg)
+#### Fold Fabric like a cummberbund
+ like a cummerbund.  Have the cummberbund creases *pointing to the bottom*.  
+![Image of sew side edges](./images/simple_mask_folds.jpg)
 
-This will make life easier, but I dislike ironing.
-
-#### Sew the two cloth pieces together at bottom
-Align the two sewn edges, with the **nice** side of the fabric facing each other.  
-
-Then sew the two pieces together at the other short end.
+#### Sew the side edges together
+Sew both sides.
+(Optional) Zig-zag stitch here is nice to use.
 
 
-#### Flip right side out and sew sides
-Flip the fabric, right side out and sew the two sides.
-![mask san ribbon ends](./images/mask_san_ribbonholder.jpg)
+#### (OPTIONAL) Sew Bottom
+For a cleaner looking edge, you can sew the bottom end.
 
-#### (OPTIONAL) Sew Bottom again
-For a cleaner looking edge, you can sew dew the bottom end.
+#### Add Ties or Elastic
+What you do here depends on the material you have.  
 
-#### Sew the top side
-We are going to sew the top of the mask **but** leave room for adding additional filters and bag tie
-![sew top image](./images/mask_opening_forfilter_tie.jpg)
+##### If you have ribbon or cloth edges.
+Sew the the ties onto the mask see image below.
+![Image of sew side edges](./images/simple_mask_AddTies.jpg)
 
-#### Add Ribbon / Elastic holder
+
+##### If you have ribbon Elastic holder and 1 1/2" ribbon
 Fold the ribbon in half and sew it onto each ends of the mask.  This makes a slot for the ribbon or elastic to attach to the mask.
-
-![mask done](./images/mask_done.jpg)
-
-#### Add Elastic or ribbon
-Add elastic or ribbon for ear loops of head ties
-
 Note a crochet hook makes threading the ribbon or elastic easier.
+
+hed.jpg)
+
+#### Done
+Note the slot for the bag tie to make a good fit around the nose.
+![mask done](./images/simple_mask_finished.jpg)
 
 ## NOTICE / WARNING
 I make NO CLAIMS that these masks will protect you from covid19. Use at your own risk.  These are not Medical Mask.  
