@@ -5,7 +5,7 @@
 This produces a very simple and fast to make cloth mask.  Adjust size as needed.
 
 
-If you are a good seamtress and have supplies please take a look at [my favorite][favorite_DIY].  It looks awesome!  Also if you are more cautious you can use the [CDC Mask instructions][CDC_mask].
+If you are a good seamtress and have supplies please take a look at [my favorite][favorite_DIY].  It looks awesome!  Also if you are more cautious you can use the [CDC Mask instructions][CDC_mask].  There is also one designed by a [Nurse][Nurse_mask].
 
 For the rest of us with random supplies and lower skills, then this page is for you.
 
@@ -13,12 +13,13 @@ For the rest of us with random supplies and lower skills, then this page is for 
 
 ### Materials:
 * **ONE** 11 my 8.5 inch piece of cloth. (Either Linen or Cotton)
-* 1-2 bag ties
+* 1-2 bag ties, pipe cleaner, paper clip
 * 1/4 inch ribbon, material or elastic
 * (Optional) 1 1/2 ribbon or quilt/blanket edging material.
 * Thread: any color
 
 ### Steps
+-   [Cut the Cloth](#cut-the-cloth)
 -   [(Optional) Moisture Spacer / Wicking
     Barrier](#optional-moisture-spacer-wicking-barrier)
 -   [ADD: Bag tie pocket](#add-bag-tie-pocket)
@@ -30,6 +31,7 @@ For the rest of us with random supplies and lower skills, then this page is for 
 -   [(OPTIONAL) Sew Bottom](#optional-sew-bottom)
 -   [Add Ties or Elastic](#add-ties-or-elastic)
 -   [Done](#done)
+
 #### Cut the Cloth
 Use a sheet of paper for your template.  Cut a single pieces of cloth the size of a sheet of paper.
 You do not have to be exact, simply within the ballpark.  Make larger or smaller for your head.
@@ -57,11 +59,14 @@ The bag tie will allow us to mold the mask to our nose.  I used a ribbon to make
 |:-----: |:---:|
 |![square with bag tie](./images/square_with_bagTies.jpg) |![mask Bag Tie](./images/mask_withBagTie.jpg)|
 
-#### Fold Fabric in behalf
+#### Fold Fabric in half
 Folder the fabric (while in portrait mode) in half.  You want the **WIDTH** to be 8.5 inches across.  You also want the *right* (nice) side of the fabric facing **out**.
 
-#### Fold Fabric like a cummberbund
- like a cummerbund.  Have the cummberbund creases *pointing to the bottom*.  
+#### Fold Fabric like a cummerbund / paper fan
+Fold like a cummerbund for paper fan.  
+I am finding that the shorter the length the sides are the better the fit.
+Have the cummerbund creases *pointing to the bottom*.  
+
 ![Image of sew side edges](./images/simple_mask_folds.jpg)
 
 #### Sew the side edges together
@@ -86,10 +91,8 @@ Sew the the ties onto the mask see image below.
 Fold the ribbon in half and sew it onto each ends of the mask.  This makes a slot for the ribbon or elastic to attach to the mask.
 Note a crochet hook makes threading the ribbon or elastic easier.
 
-hed.jpg)
-
 #### Done
-Note the slot for the bag tie to make a good fit around the nose.
+**Note:** the slot for the bag tie is to make a good fit around the nose.
 ![mask done](./images/simple_mask_finished.jpg)
 
 ## NOTICE / WARNING
@@ -108,4 +111,4 @@ Cats will hinder your progress!  But they are too cute to move.
 * [basic mask][deaconess]
 * [favorite mask][favorite_DIY]
 * [CDC mask][CDC_mask]
-* [Nurse Designed][Nurse Mask]
+* [Nurse Designed][Nurse_mask]
