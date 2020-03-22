@@ -1,5 +1,5 @@
 # DIY Simple Medical (like) Facemasks
-![Simple Medical-Like Facemask](./images/simple_mask.jpg)
+![Simple Medical-Like Facemask](./images/simple_mask_modeledsm.jpg)
 
 
 This produces a very simple and fast to make cloth mask.  Adjust size as needed.
@@ -69,9 +69,13 @@ Have the cummerbund creases *pointing to the bottom*.
 
 ![Image of sew side edges](./images/simple_mask_folds.jpg)
 
+Another view.
+![Image of sew side edges](./images/simple_mask_sidesfolded.jpg)
+
 #### Sew the side edges together
-Sew both sides.
+Sew both sides and trim edges
 (Optional) Zig-zag stitch here is nice to use.
+![Image Sides sewn](./images/simple_mask_sidessewncut.jpg)
 
 
 #### (OPTIONAL) Sew Bottom
