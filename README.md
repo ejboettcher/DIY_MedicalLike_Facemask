@@ -1,6 +1,15 @@
 # DIY Simple Medical (like) Facemasks
 ![Simple Medical-Like Facemask](./images/simple_mask_modeledsm.jpg)
 
+**UPDATE** Read this [cloth mask study][mask_study].  Lots of caveats with cloth masks.  
+
+* Fact: Cloth masks should not replace PPE (N95) masks for airborne viruses.  Only proper PPE with **handwash** is effective!
+
+* **Un-validated** improvements for cloth masks:
+   * Please add a non wicking layer between the inner and out mask. Examples: netting, tulle etc. There needs to be a moisture barrier.
+   * Wearers: Replace cloth masks often! and **wash hands after taking it off.**
+
+
 
 This produces a very simple and fast to make cloth mask.  Adjust size as needed.
 
@@ -44,12 +53,13 @@ From here our I will refer to this a the *square*.
 
 **NOTE** The outer cloth should be cotton or linen to absorb moisture!
 
-#### (Optional) Moisture Spacer / Wicking Barrier
+#### (Mandatory) Moisture Spacer / Wicking Barrier
 I wanted my mask to have the following (unproven) features:
-* A moisture wicking barrier.  Here I added another *middle* layer using netting.
+* A moisture wicking barrier.  Here I added another *middle* layer using netting or tulle.
   ![square with netting](./images/squareWithNetting.jpg)
 * Have two types of material with different tribostatics: e.g. take or give an elections.  My (UNPROVEN) theory is that when the air moves across the two barriers it would self ionize.  Again it is UNPROVEN.
 
+NOTE: See [mask study][mask_study] for more information.  Also change frequently and wash hands after taking a cloth mask off.
 
 #### ADD: Bag tie pocket
 One ONE of the short edges of the *square* we will add a pocket for the bag tie.
@@ -111,8 +121,10 @@ Cats will hinder your progress!  But they are too cute to move.
 [favorite_DIY]:https://www.instructables.com/id/DIY-Cloth-Face-Mask/
 [CDC_mask]:https://wwwnc.cdc.gov/eid/article/12/6/05-1468_article
 [Nurse_mask]:https://www.instructables.com/id/AB-Mask-for-a-Nurse-by-a-Nurse/
+[mask_study]:https://bmjopen.bmj.com/content/bmjopen/5/4/e006577.full.pdf
 
 * [basic mask][deaconess]
 * [favorite mask][favorite_DIY]
 * [CDC mask][CDC_mask]
 * [Nurse Designed][Nurse_mask]
+* [Cloth Mask Study][mask_study]
