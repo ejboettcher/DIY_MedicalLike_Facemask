@@ -9,7 +9,7 @@
    * Please add a non wicking layer between the inner and out mask. Examples: netting, tulle etc. There needs to be a moisture barrier.
    * Wearers: Replace cloth masks often! and **wash hands after taking it off.**
 
-
+* **N95** mask cover: If you double the length of the mask (aka 22in x 8.5). This mask will fit over an N95 mask.
 
 This produces a very simple and fast to make cloth mask.  Adjust size as needed.
 
