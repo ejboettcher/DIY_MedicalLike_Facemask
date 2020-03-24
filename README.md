@@ -22,15 +22,15 @@ For the rest of us with random supplies and lower skills, then this page is for 
 
 ### Materials:
 * **ONE** 11 my 8.5 inch piece of cloth. (Either Linen or Cotton)
-* 1-2 bag ties, pipe cleaner, paper clip
+* 1-2 ~ 4in long 24 guage wire, paper clip, If for personal use bag ties or pipe cleaner
 * 1/4 inch ribbon, material or elastic
 * (Optional) 1 1/2 ribbon or quilt/blanket edging material.
 * Thread: any color
 
 ### Steps
 -   [Cut the Cloth](#cut-the-cloth)
--   [(Optional) Moisture Spacer / Wicking
-    Barrier](#optional-moisture-spacer-wicking-barrier)
+-   [(Mandatory) Moisture Spacer / Wicking
+    Barrier or pocket](#mandatory-moisture-spacer-wicking-barrier)
 -   [ADD: Bag tie pocket](#add-bag-tie-pocket)
 -   [Fold Fabric in behalf](#fold-fabric-in-behalf)
 -   [Fold Fabric like a
@@ -54,20 +54,29 @@ From here our I will refer to this a the *square*.
 **NOTE** The outer cloth should be cotton or linen to absorb moisture!
 
 #### (Mandatory) Moisture Spacer / Wicking Barrier
-I wanted my mask to have the following (unproven) features:
+
 * A moisture wicking barrier.  Here I added another *middle* layer using netting or tulle.
-  ![square with netting](./images/squareWithNetting.jpg)
-* Have two types of material with different tribostatics: e.g. take or give an elections.  My (UNPROVEN) theory is that when the air moves across the two barriers it would self ionize.  Again it is UNPROVEN.
+  ![square with netting](./images/squareWithNetting.jpg)  
+
+OR Add a pocket so that the person using it can put there own filter layer
 
 NOTE: See [mask study][mask_study] for more information.  Also change frequently and wash hands after taking a cloth mask off.
 
 #### ADD: Bag tie pocket
-One ONE of the short edges of the *square* we will add a pocket for the bag tie.
+On ONE of the short edges of the *square* we will add a pocket for the bag tie.
 The bag tie will allow us to mold the mask to our nose.  I used a ribbon to make a pocket for the bag tie
+
+**NOTE** Some places do not want ANY plastic bag tie since the plastic melts when it is sterilized and the same is true with pipe cleaners.  Both of these are fine if the uses is just washing and drying it in a normal home laundry equipment.
+
+*DO add the pocket*, it will allow the user to use what they feel comfortable.
+
+If you have 24 like gauge wire please use that.   
 
 | Square with Tie before sewing | Square with tie after sewing |
 |:-----: |:---:|
 |![square with bag tie](./images/square_with_bagTies.jpg) |![mask Bag Tie](./images/mask_withBagTie.jpg)|
+
+![guage wire](./images/guagewire.png)
 
 #### Fold Fabric in half
 Folder the fabric (while in portrait mode) in half.  You want the **WIDTH** to be 8.5 inches across.  You also want the *right* (nice) side of the fabric facing **out**.
