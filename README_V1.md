@@ -1,30 +1,28 @@
-# DIY Simple Medical (like) Facemasks V2.0
+# DIY Simple Medical (like) Facemasks V1.0
 ![Simple Medical-Like Facemask](./images/simple_mask_modeledsm.jpg)
 
-This produces a very simple and fast to make cloth mask.  Adjust size as needed.
-
-**UPDATE:** Simpler verison with **pocket!**
-
-**UPDATE:** Read this [cloth mask study][mask_study].  Lots of caveats with cloth masks.  
+**UPDATE** Read this [cloth mask study][mask_study].  Lots of caveats with cloth masks.  
 
 * Fact: Cloth masks should not replace PPE (N95) masks for airborne viruses.  Only proper PPE with **handwash** is effective!
 
 * **Un-validated** improvements for cloth masks:
    * Please add a non wicking layer between the inner and out mask. Examples: netting, tulle etc. There needs to be a moisture barrier.
-   * This non -wicking layer can be inserted in the pocket
-* Wearers: Replace cloth masks often! and **wash hands after taking it off.**
+   * Wearers: Replace cloth masks often! and **wash hands after taking it off.**
 
 * **N95** mask cover: If you double the length of the mask (aka 22in x 8.5). This mask will fit over an N95 mask.
 
-If you are a good seamstress and have supplies please take a look at [my favorite][favorite_DIY].  It looks awesome!  Also if you are more cautious you can use the [CDC Mask instructions][CDC_mask].  There is also one designed by a [Nurse][Nurse_mask].
+This produces a very simple and fast to make cloth mask.  Adjust size as needed.
+
+
+If you are a good seamtress and have supplies please take a look at [my favorite][favorite_DIY].  It looks awesome!  Also if you are more cautious you can use the [CDC Mask instructions][CDC_mask].  There is also one designed by a [Nurse][Nurse_mask].
 
 For the rest of us with random supplies and lower skills, then this page is for you.
 
 ## Instructions:
 
 ### Materials:
-* **ONE** ~19.5 my 8.5 inch piece of cloth. (Either Linen or Cotton)
-* 1-2 ~ 4in long 24 guage wire, paper clip, If for personal use bag ties or pipe cleaner work
+* **ONE** 11 my 8.5 inch piece of cloth. (Either Linen or Cotton)
+* 1-2 ~ 4in long 24 guage wire, paper clip, If for personal use bag ties or pipe cleaner
 * 1/4 inch ribbon, material or elastic
 * (Optional) 1 1/2 ribbon or quilt/blanket edging material.
 * Thread: any color
@@ -34,7 +32,7 @@ For the rest of us with random supplies and lower skills, then this page is for 
 -   [(Mandatory) Moisture Spacer / Wicking
     Barrier or pocket](#mandatory-moisture-spacer-wicking-barrier)
 -   [ADD: Bag tie pocket](#add-bag-tie-pocket)
--   [Fold Fabric in half](#fold-fabric-in-half)
+-   [Fold Fabric in behalf](#fold-fabric-in-behalf)
 -   [Fold Fabric like a
     cummberbund](#fold-fabric-like-a-cummberbund)
 -   [Sew the side edges
@@ -44,25 +42,18 @@ For the rest of us with random supplies and lower skills, then this page is for 
 -   [Done](#done)
 
 #### Cut the Cloth
-Use a sheet of paper for your template.  Cut a single pieces of cloth the size of a sheet of paper + sheet of paper facing the other length.  This gives out ~ 19 inches in length by 8.5 inches.
+Use a sheet of paper for your template.  Cut a single pieces of cloth the size of a sheet of paper.
 You do not have to be exact, simply within the ballpark.  Make larger or smaller for your head.
 
 From here our I will refer to this a the *square*.
 
-| Pocket Sizing |
-|:--:|
-|![paper template good](./images/pocket_sizing.jpg)|
-
 | GOOD Cut  | BAD Cut |
 |:---:|:---:|
 |![paper template good](./images/simple_mask_square.jpg)|![paper template good](./images/simple_mask_square_badcut.jpg)|
-| NOTE: this sizing makes nice masks but will not fit over another mask!| Ballpark sizing works well.  But it has to be in the ball park!|
 
 **NOTE** The outer cloth should be cotton or linen to absorb moisture!
 
-#### (Mandatory) Moisture Spacer / Wicking Barrier or pockets
-
-SKIP if you are adding a pocket.
+#### (Mandatory) Moisture Spacer / Wicking Barrier
 
 * A moisture wicking barrier.  Here I added another *middle* layer using netting or tulle.
   ![square with netting](./images/squareWithNetting.jpg)  
@@ -72,7 +63,7 @@ OR Add a pocket so that the person using it can put there own filter layer
 NOTE: See [mask study][mask_study] for more information.  Also change frequently and wash hands after taking a cloth mask off.
 
 #### ADD: Bag tie pocket
-On ONE of the short edges of the *square* we will add a pocket for the bag tie.  Add it to the bottom **nice/right** side of the fabric.  If it is on the top no worries it will work well to.
+On ONE of the short edges of the *square* we will add a pocket for the bag tie.
 The bag tie will allow us to mold the mask to our nose.  I used a ribbon to make a pocket for the bag tie
 
 **NOTE** Some places do not want ANY plastic bag tie since the plastic melts when it is sterilized and the same is true with pipe cleaners.  Both of these are fine if the uses is just washing and drying it in a normal home laundry equipment.
@@ -81,15 +72,11 @@ The bag tie will allow us to mold the mask to our nose.  I used a ribbon to make
 
 If you have 24 like gauge wire please use that.   
 
-| Square with Tie before sewing: left  |
-|:-----: |
-|![square with bag tie](./images/pocket_folded.jpg) |
+| Square with Tie before sewing | Square with tie after sewing |
+|:-----: |:---:|
+|![square with bag tie](./images/square_with_bagTies.jpg) |![mask Bag Tie](./images/mask_withBagTie.jpg)|
 
-| Square with Tie added to top of fabric  | 24 guage wire
-|:-----: | :---:|
-|![square with bag tie](./images/pocket_top.jpg) |![guage wire](./images/guagewire.png)|
-| See no worries.  But adding it to the bottom is nicer | Make sure you bend the edge so there are no sharp edges when you add the wire to the pocket|
-
+![guage wire](./images/guagewire.png)
 
 #### Fold Fabric in half
 Folder the fabric (while in portrait mode) in half.  You want the **WIDTH** to be 8.5 inches across.  You also want the *right* (nice) side of the fabric facing **out**.
