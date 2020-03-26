@@ -31,14 +31,11 @@ For the rest of us with random supplies and lower skills, then this page is for 
 
 ### Steps
 -   [Cut the Cloth](#cut-the-cloth)
--   [(Mandatory) Moisture Spacer / Wicking
-    Barrier or pocket](#mandatory-moisture-spacer-wicking-barrier)
+-   [(Mandatory) Moisture Spacer / Wicking Barrier](#mandatory-moisture-spacer-wicking-barrier)
 -   [ADD: Bag tie pocket](#add-bag-tie-pocket)
--   [Fold Fabric in half](#fold-fabric-in-half)
--   [Fold Fabric like a
-    cummberbund](#fold-fabric-like-a-cummberbund)
--   [Sew the side edges
-    together](#sew-the-side-edges-together)
+-   [Fold Fabric to make an envelope: Filter Pocket](#fold-fabric-to-make-an-envelope-filter-pocket)
+-   [Fold Fabric like a cummerbund / paper fan](#fold-fabric-like-a-cummerbund-paper-fan)
+-   [Sew the side edges together](#sew-the-side-edges-together)
 -   [(OPTIONAL) Sew Bottom](#optional-sew-bottom)
 -   [Add Ties or Elastic](#add-ties-or-elastic)
 -   [Done](#done)
@@ -47,7 +44,7 @@ For the rest of us with random supplies and lower skills, then this page is for 
 Use a sheet of paper for your template.  Cut a single pieces of cloth the size of a sheet of paper + sheet of paper facing the other length.  This gives out ~ 19 inches in length by 8.5 inches.
 You do not have to be exact, simply within the ballpark.  Make larger or smaller for your head.
 
-From here our I will refer to this a the *square*.
+From here on out, I will refer to this as the *square*.
 
 | Pocket Sizing |
 |:--:|
@@ -60,9 +57,9 @@ From here our I will refer to this a the *square*.
 
 **NOTE** The outer cloth should be cotton or linen to absorb moisture!
 
-#### (Mandatory) Moisture Spacer / Wicking Barrier or pockets
+#### (Mandatory) Moisture Spacer / Wicking Barrier
 
-SKIP if you are adding a pocket.
+SKIP if you are adding a filter pocket.
 
 * A moisture wicking barrier.  Here I added another *middle* layer using netting or tulle.
   ![square with netting](./images/squareWithNetting.jpg)  
@@ -85,14 +82,19 @@ If you have 24 like gauge wire please use that.
 |:-----: |
 |![square with bag tie](./images/pocket_folded.jpg) |
 
-| Square with Tie added to top of fabric  | 24 guage wire
+| Square with Tie added to top of fabric  | 24 gauge wire
 |:-----: | :---:|
-|![square with bag tie](./images/pocket_top.jpg) |![guage wire](./images/guagewire.png)|
+|![square with bag tie](./images/pocket_top.jpg) |![gauge wire](./images/guagewire.png)|
 | See no worries.  But adding it to the bottom is nicer | Make sure you bend the edge so there are no sharp edges when you add the wire to the pocket|
 
 
-#### Fold Fabric in half
-Folder the fabric (while in portrait mode) in half.  You want the **WIDTH** to be 8.5 inches across.  You also want the *right* (nice) side of the fabric facing **out**.
+#### Fold Fabric to make an envelope: Filter Pocket
+Folder the fabric (while in portrait mode) in roughly in half.  You want the **WIDTH** to be 8.5 inches across.  You also want the *right* (nice) side of the fabric facing **out**.  Please leave a little (~1-2 inches) to fold over to make the envelope.
+
+
+| Square folded like an envelope |
+|:-----: |
+|![square with bag tie](./images/pocket_folded.jpg) |
 
 #### Fold Fabric like a cummerbund / paper fan
 Fold like a cummerbund for paper fan.  
