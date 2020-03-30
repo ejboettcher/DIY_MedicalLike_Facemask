@@ -23,7 +23,7 @@ For the rest of us with random supplies and lower skills, then this page is for 
 ## Instructions:
 
 ### Materials:
-* **ONE** ~19.5 my 8.5 inch piece of cloth. (Either Linen or Cotton)
+* **ONE** ~19.5 by 8.5 inch piece of cloth. (Either Linen or Cotton)
 * 1-2 ~ 4in long 24 guage wire, paper clip, If for personal use bag ties or pipe cleaner work
 * 1/4 inch ribbon, material or elastic
 * (Optional) 1 1/2 ribbon or quilt/blanket edging material.
@@ -150,5 +150,5 @@ Cats will hinder your progress!  But they are too cute to move.
 * [basic mask][deaconess]
 * [favorite mask][favorite_DIY]
 * [CDC mask][CDC_mask]
-* [Nurse Designed][Nurse_mask]
+* [Nurse Designed mask][Nurse_mask]
 * [Cloth Mask Study][mask_study]

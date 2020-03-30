@@ -1,4 +1,7 @@
-# DIY Scrub Cap for PRUSA RC2 FaceShield
+# DIY Scrub Cap for PRUSA RC2 FaceShield: V 1.2
+
+**UPDATE** Added Sizing!
+
 
 [PRUSA][prUSA_RC2] has a wonderful open source faceshield.
 Unfortunately, 3D printed parts can be hard on the skin and finding Elastic
@@ -24,8 +27,9 @@ Solution, skull cap that attaches to the RC2 fa ceshield.  This pattern is based
 * Band: ~5 1/5 by 28 inch piece of cloth. (Either Linen or Cotton)
 * Strap: 42 inch long bias tape ~ 2 wide unfolded. clip
 * Top: 9 by 6.5 inch wide
-* 2 straps 1.25 inch when folded.
+* 2 straps 4 inches long by 1/2-1/4 inch wide.
 * Thread: any color
+* US Quarter for strap spacing measurement.
 
 ### Steps
 -   [Cut the Cloth](#cut-the-cloth)
@@ -86,9 +90,14 @@ Find the middle of the bias tape and the skull cap and pin it together.  Then sl
 
 
 #### Add Strap to hold faceshield on
-Fold the cap in half, measure 5" from the top end.  Sew the strap perpendicular to the bias tape. There should be about 1 1/4 gap between the top and bottom of the strap
+Fold the cap in half, measure 5" from the top end.  Sew the strap perpendicular to the bias tape. There should be about 1 1/4 gap between the top and bottom of the strap.  Or use a US Quarter to measure the spacing for the gap.
 
-| Strap Sewn  | Streap Attached to Shield|
+| Strap Gap Size | Strap |
+|:--: |:---:|
+|![Bias Tape with quarter](./images/faceshield_strap_gapsz.jpg)| ![Bias Tape Head Sizes](./images/faceshield_capsizing.jpg)|
+
+
+| Strap Sewn  | Strap Attached to Shield|
 |:--:|:--:|
 | ![Bias Tape to band](./images/faceshield_strap_sewn.jpg)| ![Bias Tape to band](./images/faceshield_strap.jpg)|
 
@@ -113,5 +122,4 @@ Cats will hinder your progress!  But they are too cute to move.
 * [Original Cap][original_cap]
 * [prUSA RCS mask][prUSA_RC2]
 * [CDC mask][CDC_mask]
-* [Nurse Designed][Nurse_mask]
 * [Cloth Mask Study][mask_study]
